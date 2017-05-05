@@ -9,7 +9,7 @@ Canonical forms
 
 ## Assignment
 
-Clone, create a new branch as always. Read `problem.pdf` and write your solution in `R/solution.R`. Knit `solution.Rmd` to get `solution.pdf`. If there is no errors or wanings in the PDF file, you are done. Add & commit `R/solution.R`, `solution.Rmd` and `solution.pdf` and open a Pull Request by the deadline.
+Clone, create a new branch as always. Read `problem.pdf` and write your solution in `solution.Rmd`. Knit, commit all necessary files and open a PR.
 
 ## Need help?
 
