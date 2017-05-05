@@ -1,0 +1,44 @@
+---
+title: 'hw07: Schur decomposition and autonomous LRE model'
+author: 'Your name^[Affiliation]'
+date: '`r format(Sys.time(), "%d %B, %Y")`'
+output:
+  bookdown::pdf_document2:
+    fig_caption: yes
+    includes:
+      in_header: asset/latex/custom.sty
+    keep_tex: no
+    latex_engine: pdflatex
+    number_sections: yes
+    template: null
+    toc: no
+  bookdown::html_document2: default
+documentclass: scrartcl
+---
+
+
+## Problem 1 {-}
+<!-- Solution to Problem 1 here -->
+
+
+
+## Problem 2 {-}
+<!-- Solution to Problem 2 here -->
+
+
+
+## Problem 3 {-}
+<!-- Solution to Problem 3 here -->
+
+
+
+## Problem 4 {-}
+<!-- Solution to Problem 4 here -->
+
+
+
+## Problem 5 (Optional but highly recommended) {-}
+<!-- Solution to Problem 5 here -->
+
+
+
